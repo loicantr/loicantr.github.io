@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loicantr.github.io/sitemap.html.gz
+Sitemap: https://loicantr.github.io/app/sitemap.html.gz
+Sitemap: https://loicantr.github.io/assets/sitemap.html.gz
+Sitemap: https://loicantr.github.io/css/sitemap.html.gz
+Sitemap: https://loicantr.github.io/includes/sitemap.html.gz
+Sitemap: https://loicantr.github.io/item/sitemap.html.gz
+Sitemap: https://loicantr.github.io/src/sitemap.html.gz
